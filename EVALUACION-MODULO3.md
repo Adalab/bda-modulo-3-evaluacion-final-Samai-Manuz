@@ -7,7 +7,7 @@
 
 ## Los Datos
 
-Los  datos que se proporciona consisten en dos conjuntos de archivos que, en conjunto, describen el comportamiento de los clientes dentro de un programa de lealtad de una aerolínea. 
+Los  datos que se proporcionan consisten en dos conjuntos de archivos que, en conjunto, describen el comportamiento de los clientes dentro de un programa de lealtad de una aerolínea. 
 
 ### Customer Flight Analysis.csv
 
