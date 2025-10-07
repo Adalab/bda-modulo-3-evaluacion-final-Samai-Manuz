@@ -37,7 +37,7 @@ Revisa las tablas finales (descriptivas, IC 95%) y las conclusiones del contrast
 📁 Estructura elemental del proyecto:
 .
 ├─ Examen Samai.ipynb            # Notebook contenedor de todo el proceso
-├─ Full Customer Fixed.parquet   # Dataset final 
+├─ Full Customer Fixed.parquet   # Dataset final (inicialmente creado/guardado como csv)
 ├─ Descriptive Stats.parquet     # Tabla resumen por Education
 ├─ Hipótesis 1.parquet           # Resultado de la primera prueba de hipótesis ('Hight School or Below' -VS- 'Doctor')
 └─ README.md                     # Descriptivo del proyecto
